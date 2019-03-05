@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Game Store</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="newUser1">Not a Member yet?</string>
+    <string name="newUser2">Sign Up here.</string>
+    <string name="sign_up">signup</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">register</string>
+    <string name="oldUser1">Already have account ?</string>
+    <string name="oldUser2">Login here .</string>
+    <string name="home">Home</string>
+    <string name="addProduct">Add Product</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="updateProduct">Update</string>
+</resources>
